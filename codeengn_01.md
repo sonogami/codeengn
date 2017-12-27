@@ -16,4 +16,4 @@ A.
 | **DRIVE_CDROM**/5       | The drive is a CD-ROM drive.             |
 | **DRIVE_RAMDISK**/6     | The drive is a RAM disk.                 |
 
-정답은 5.
+정답은 5
